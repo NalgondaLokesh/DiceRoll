@@ -26,4 +26,4 @@ Includes a short animation for suspense — just like rolling a real die!
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/yourusername/dice-roller.git
-   cd dice-roller
+   cd dice_roller
